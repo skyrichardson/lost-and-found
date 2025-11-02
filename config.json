@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Lost and Found Items",
+  "title": "Photo Gallery",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Contact Sky Richardson 0412 426 380 for more info. <a href="tel:555-555-5555">555-555-5555</a>",
-  "usage-stats": true
+  "footer": "Copyright Text",
+  "usage-stats": false
 }
