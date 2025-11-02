@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Contact Sky Richardson 0412 426 380 for more info.",
+  "footer": "Contact Sky Richardson 0412 426 380 for more info. <a href="tel:555-555-5555">555-555-5555</a>",
   "usage-stats": true
 }
